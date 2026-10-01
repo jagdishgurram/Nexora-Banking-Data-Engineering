@@ -3,7 +3,6 @@
 Nexora is an end-to-end banking data engineering project built using the Medallion Architecture and Unity Catalog. The pipeline ingests banking data using Auto Loader, Spark Declarative Pipelines, Structured Streaming, incremental processing, and SCD to transform raw data through the Silver layer into clean, business-ready Gold datasets.
 
 ---
-
 ## About Nexora Bank
 Nexora Bank is a fictional modern banking institution serving customers through multiple branches and digital banking channels. The project focuses on building a scalable data engineering pipeline to process customer, account, branch, and transaction data for analytics and reporting.
 
