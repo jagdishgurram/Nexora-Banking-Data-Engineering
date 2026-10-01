@@ -15,8 +15,8 @@ Nexora Bank is a fictional modern banking institution serving customers through 
 **SQL** – Querying and analyzing structured data \
 **Databricks** – Data engineering, orchestration, and pipeline development \
 **Delta Lake** - Reliable storage and incremental processing \
-**AWS S3** – Cloud storage for source files and data ingestion
-**Auto Loader** – Incremental ingestion of new files from cloud storage
+**AWS S3** – Cloud storage for source files and data ingestion \
+**Auto Loader** – Incremental ingestion of new files from cloud storage \
 **Unity Catalog** – Data governance, cataloging, and access control \
 **Git & GitHub** – Version control and project management
 
