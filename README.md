@@ -4,6 +4,11 @@ Nexora is an end-to-end banking data engineering project built using the Medalli
 
 ---
 
+## About Nexora Bank
+Nexora Bank is a fictional modern banking institution serving customers through multiple branches and digital banking channels. The project focuses on building a scalable data engineering pipeline to process customer, account, branch, and transaction data for analytics and reporting.
+
+---
+
 ## Tech Stack
 **Python** – Pipeline development and data processing \
 **Apache Spark (PySpark)** – Distributed data processing \
